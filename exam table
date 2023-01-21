@@ -1,0 +1,7 @@
+create table exam7(s_id number (10),s_examtype varchar (10),s_marks number (30),s_collegename varchar (10));
+insert into exam7 values (1,'mid sem',35,'socca');
+insert into exam7 values (2,'mid sem',30,'socca');
+insert into exam7 values (3,'mid sem',20,'socca');
+insert into exam7 values (4,'mid sem',34,'socca');
+insert into exam7 values (5,'mid sem',40,'socca');
+select*from exam7;
