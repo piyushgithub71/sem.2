@@ -1,0 +1,7 @@
+create table cource9 (c_collegename varchar (10),c_typeofcources varchar (10),c_duration varchar(30));
+insert into cource9 values ('socca','bca','3 year');
+insert into cource9 values ('socca','mca','2 year');
+insert into cource9 values ('socca','bscit','3 year');
+insert into cource9 values ('socca','mscit','2 year');
+insert into cource9 values ('socca','intmascit','4 year');
+select*from cource9;
