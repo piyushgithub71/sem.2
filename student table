@@ -1,0 +1,7 @@
+create table student6(s_id number (10),s_name varchar (10),s_emailid varchar (30),s_phoneno number(10),s_age number(10),s_collegename varchar (10),s_course varchar (10));
+insert into student6 values (1,'parth','parth123@gmail.com',1234567890,17,'socca','bca');
+insert into student6 values (2,'ajay','ajay13@gmail.com',9807291208,18,'socca','intmscit');
+insert into student6 values (3,'jit','jit3@gmail.com',7874311581,21,'socca','mscit');
+insert into student6 values (4,'meet','meet23@gmail.com',2315648970,17,'socca','bscit');
+insert into student6 values (5,'krunal','krunal123@gmail.com',9123456780,22,'socca','mca');
+select*from student6;
