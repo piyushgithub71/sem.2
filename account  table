@@ -1,0 +1,7 @@
+create table accounts6(aemp_id number (10),aemp_typeofaccount varchar(10),aemp_collegename varchar (10));
+insert into accounts6 values (1,'sallary','socca');
+insert into accounts6 values (2,'fees','socet');
+insert into accounts6 values (3,'sallary','socca');
+insert into accounts6 values (4,'fees','socet');
+insert into accounts6 values (5,'fees','socca');
+select*from accounts6;
