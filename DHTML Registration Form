@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Registration Form </title>
+    </head>
+    <body bgcolor="wheat">
+        
+        <form>
+            <table>
+                <tr> <h1> STUDENT REGISTRATION FORM </h1> </tr>
+                <tr>
+                    <td> Name:  </td>
+                    <td> <input type="text" placeholder="Enter Your Full Name"></td>
+                </tr>
+                <tr>
+                    <td> Father Name:  </td>
+                    <td> <input type="text" placeholder="Enter Your Father Full Name"></td>
+                </tr>
+                <tr>
+                    <td> Mother Name:  </td>
+                    <td> <input type="text" placeholder="Enter Your Mother Full Name"></td>
+                </tr>
+                <tr>
+                    <td>  Email:  </td>
+                    <td> <input type="text" placeholder="Enter Your Email-id"></td>
+                </tr>
+                <tr>
+                    <td> Mobile no.:  </td>
+                    <td> <input type="number" placeholder="Enter Your Mobile Number"></td>
+                </tr>
+                <tr>
+                    <td> Date Of Birth:   </td>
+                    <td> <input type="date" placeholder="Enter Your D.O.B."></td>
+                </tr>
+                <tr>
+                    <td> Gender:  </td>
+                    <td> <input type="radio" placeholder="Enter Your Gender"> Male
+                        <input type="radio" placeholder="Enter Your Gender"> Female
+                        <input type="radio" placeholder="Enter Your Gender"> Other </td>
+                </tr>
+                <tr>
+                    <td>  Address:  </td>
+                    <td> <input type="text" placeholder="Enter Your Address"> </td>
+                </tr>
+                <tr>
+                    <td> 10th markshit:   </td>
+                    <td> <input type="file" placeholder="10th markshit"></td>
+                </tr>
+                <tr>
+                    <td> 11th markshit:   </td>
+                    <td> <input type="file" placeholder="11th markshit"></td>
+                </tr>
+                 <tr>
+                    <td>  </td>
+                    <td> <input type="submit" placeholder="Submit"> </td>
+                </tr>  
+            </table>
+        </form>
+    </body>
+</html>
