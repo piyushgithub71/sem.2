@@ -7,18 +7,18 @@
         
         <form>
             <table>
-                <tr> <h1> STUDENT REGISTRATION FORM </h1> </tr>
+                <tr> <h1><u>  STUDENT REGISTRATION FORM  </u> </h1> </tr>
                 <tr>
                     <td> Name:  </td>
                     <td> <input type="text" placeholder="Enter Your Full Name"></td>
                 </tr>
                 <tr>
                     <td> Father Name:  </td>
-                    <td> <input type="text" placeholder="Enter Your Father Full Name"></td>
+                    <td> <input type="text" placeholder="Enter Your Father Name"></td>
                 </tr>
                 <tr>
                     <td> Mother Name:  </td>
-                    <td> <input type="text" placeholder="Enter Your Mother Full Name"></td>
+                    <td> <input type="text" placeholder="Enter Your Mother Name"></td>
                 </tr>
                 <tr>
                     <td>  Email:  </td>
@@ -47,8 +47,18 @@
                     <td> <input type="file" placeholder="10th markshit"></td>
                 </tr>
                 <tr>
-                    <td> 11th markshit:   </td>
-                    <td> <input type="file" placeholder="11th markshit"></td>
+                    <td> 12th markshit:   </td>
+                    <td> <input type="file" placeholder="12th markshit"></td>
+                </tr>
+                <tr>
+                    <td> Course </td>
+                   <td><select>
+                        <option value="Course">Course</option>
+                        <option value="I.M.Sc.It">I.M.Sc.It</option>
+                        <option value="Bca">Bca</option>
+                        <option value="Mca">Mca</option>
+                        <option value="Mba">Mba</option>
+                    </select></td> 
                 </tr>
                  <tr>
                     <td>  </td>
