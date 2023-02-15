@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <style>
+             body{ background-color: tomato;}
+             h1{color: aqua;}
+             p{color: yellowgreen;}
+        </style>
+    </head>
+    <body>
+        <h1> hello </h1>
+        <p> Hi..!!</p>
+    </body>
+</html>
