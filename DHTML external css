@@ -1,0 +1,31 @@
+.hrml thi save krvu
+
+
+<html>
+    <head>
+        <link rel="stylesheet" href="mystyle.css">
+    </head>
+    <body>
+        <h1> this is a external css </h1>
+        <p> this is a paragraph </p>
+    </body>
+</html>
+
+
+
+
+
+
+
+mystyle.css thi save karvu
+
+
+body
+{
+    background-color: aquamarine;
+}
+h1
+{
+    color: navajowhite;
+    margin-left: 20px;
+}
